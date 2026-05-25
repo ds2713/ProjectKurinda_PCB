@@ -8,7 +8,7 @@
 		(at 0 -3 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "78483ec6-c425-4032-bdb9-1d74674407a6")
+		(uuid "a15bb161-1060-406e-adf7-a602e3347c08")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +20,7 @@
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "00b4aa2d-3eb6-41eb-83e6-60e47378d563")
+		(uuid "45903c9c-50b8-4f00-893e-25f15e584882")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "9dd40743-f479-4014-b7f4-e5bc34a14602")
+		(uuid "eef8233e-46ab-4130-8d35-1a2c434310f0")
 		(effects
 			(font
 				(size 1 1)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "db062dcd-3f1b-45ad-bafb-07febdc272aa")
+		(uuid "5f8c12c5-a9ac-4d1c-9fe8-5f7bf014292f")
 		(effects
 			(font
 				(size 1 1)
@@ -64,7 +64,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "3bf928f8-0e70-451b-9f29-6d9bdcb7440c")
+		(uuid "c21c26b8-64cf-46b4-a3d4-909434bc66eb")
 	)
 	(fp_line
 		(start -10.5 -2)
@@ -74,7 +74,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "6c5c4aa6-83ec-4028-9b56-ada7aaf27c46")
+		(uuid "3527bf17-e3d6-493e-b4e5-0a856e87fd30")
 	)
 	(fp_line
 		(start -10.5 4)
@@ -84,7 +84,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "bf1ddb03-dc3d-4717-b9c7-35000ed5ae5b")
+		(uuid "36794b26-8667-406d-a208-f9f155a514cd")
 	)
 	(fp_line
 		(start -7 6.5)
@@ -94,7 +94,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "cb828f87-2520-455f-8bc0-51610cd0fb4e")
+		(uuid "668227dc-57ef-43cf-aed5-ec8cba9c7614")
 	)
 	(fp_line
 		(start -7 9)
@@ -104,7 +104,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "1767f579-0a52-4db9-9329-ed490c096daf")
+		(uuid "15ef88f3-8a3a-4885-b5a0-4f4e097912fc")
 	)
 	(fp_line
 		(start 7 6.5)
@@ -114,7 +114,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "a634cc39-3364-4874-96c1-1efde3e7cdd0")
+		(uuid "d0bdce9e-f0e1-4537-ac60-4cc0508c6088")
 	)
 	(fp_line
 		(start 10.5 -2)
@@ -124,7 +124,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "4a6a7e6d-64a9-4246-91cd-fc9a14d74976")
+		(uuid "c5fb3f5d-4368-40fc-a059-d0e4388a71db")
 	)
 	(fp_line
 		(start 10.5 4)
@@ -134,13 +134,46 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "d1d398b0-201e-454e-9c5c-53ff9e027c75")
+		(uuid "faedaa9d-a16f-4f2e-98f7-d7c8492cf5f1")
+	)
+	(fp_rect
+		(start -12 -4)
+		(end 12 10)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "4e664b26-0bd4-453f-9348-b61c23e1af2e")
+	)
+	(fp_rect
+		(start -12 -4)
+		(end 12 10)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "B.CrtYd")
+		(uuid "5fd01e50-3403-4873-a089-94604680fd5d")
+	)
+	(fp_rect
+		(start -11 -3)
+		(end 11 9)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "c0d6a0e5-a004-45d0-8cda-7611b47b327b")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "46df95e6-4a6c-4865-9334-8fd88f82c3cc")
+		(uuid "5951c632-966a-4fd1-878c-9683d0cf4823")
 		(effects
 			(font
 				(size 1 1)
@@ -155,7 +188,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(thermal_bridge_angle 90)
-		(uuid "fe85ac07-e6ed-411e-b73f-002b4dcf6945")
+		(uuid "9d53742c-ad0a-459b-8d9d-d55664b82517")
 	)
 	(pad "2" thru_hole circle
 		(at 0 0)
@@ -164,7 +197,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(thermal_bridge_angle 90)
-		(uuid "1ae14a76-5094-4176-83c9-5cde7dff3026")
+		(uuid "5645f22b-5204-49e2-b129-d48c5f8fa644")
 	)
 	(pad "3" thru_hole circle
 		(at 2.54 0)
@@ -173,10 +206,11 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(thermal_bridge_angle 90)
-		(uuid "58b61123-dc35-4979-8bb2-8769061b5222")
+		(uuid "e9382a2f-b908-477c-ab17-365429111dcb")
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/3D models/WaterSensor.step"
+		(hide yes)
 		(offset
 			(xyz 0 -25.35 0)
 		)
@@ -185,6 +219,17 @@
 		)
 		(rotate
 			(xyz -90 -0 90)
+		)
+	)
+	(model "${KIPRJMOD}/3D models/Moisture Sensor.step"
+		(offset
+			(xyz 0 -45.8 -1.75)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -180 -0)
 		)
 	)
 )
