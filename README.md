@@ -94,3 +94,4 @@ i2c pull-ups
 Power rail switch
 Battery voltage monitoring
 Flip soil moisture sensor side
+Add LoRa module
