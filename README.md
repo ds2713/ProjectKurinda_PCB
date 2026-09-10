@@ -65,3 +65,32 @@ Several of the footprints and models of the development modules have been drawn 
 
 4. Accelerometer:
 - 3D model: https://grabcad.com/library/mpu6050-accelerometer-module-2
+
+# Improvements for next version
+
+1. Add battery voltage monitoring to get and transmit battery status.
+2. Flip soil moisture sensor side.
+3. DHT11 sensor without carrier board?
+
+
+# Updated sensor chips
+
+1. RTC -> RV3028: https://thepihut.com/products/rv3028-real-time-clock-rtc-breakout
+- Very accurate, extremely low power consumption
+2. T&H -> SHT40: https://thepihut.com/products/adafruit-sensirion-sht40-temperature-humidity-sensor-stemma-qt-qwiic
+- Accurate and faster sampling
+3. Accelerometer -> ADXL362: https://www.ebay.co.uk/itm/388949393444
+- Extremely low power, interrupt outputs to wake microcontroller on motion
+4. Accelerometer option 2 (i2C) -> LIS2DW12: PiHub
+- Extremely low power, interrupt outputs to wake microcontroller on motion
+5. Still need to think about the soil moisture sensor, the problem with what we have now is that it uses a lot of power and is fairly low frequency, so susceptible to changes in soil conductivity too. Ideally we'd like one which is lower power and higher frequency. More research needed.
+
+
+# Next steps
+
+## New PCB
+
+i2c pull-ups
+Power rail switch
+Battery voltage monitoring
+Flip soil moisture sensor side
