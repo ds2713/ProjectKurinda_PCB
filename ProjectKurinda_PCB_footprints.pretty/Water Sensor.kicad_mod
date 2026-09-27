@@ -8,7 +8,7 @@
 		(at 0 -3 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "a15bb161-1060-406e-adf7-a602e3347c08")
+		(uuid "ffbc1e5e-7e25-4af5-82e8-76ca026b806c")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +20,7 @@
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "45903c9c-50b8-4f00-893e-25f15e584882")
+		(uuid "5c93ceaf-882e-4529-8e39-10955aa9cfd4")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "eef8233e-46ab-4130-8d35-1a2c434310f0")
+		(uuid "3b0a3d55-a0cf-4a81-a633-8d897187d2b2")
 		(effects
 			(font
 				(size 1 1)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "5f8c12c5-a9ac-4d1c-9fe8-5f7bf014292f")
+		(uuid "9e4a0204-fc76-4c1e-91cf-e89096db9646")
 		(effects
 			(font
 				(size 1 1)
@@ -64,7 +64,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "c21c26b8-64cf-46b4-a3d4-909434bc66eb")
+		(uuid "4b4e6f53-587b-4164-9593-7ccdb313e41b")
 	)
 	(fp_line
 		(start -10.5 -2)
@@ -74,7 +74,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "3527bf17-e3d6-493e-b4e5-0a856e87fd30")
+		(uuid "84920ab7-0e46-4c1d-ad17-bd1f445c9a0b")
 	)
 	(fp_line
 		(start -10.5 4)
@@ -84,7 +84,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "36794b26-8667-406d-a208-f9f155a514cd")
+		(uuid "bc744cef-a4c2-4521-95ef-5d609d5fd85c")
 	)
 	(fp_line
 		(start -7 6.5)
@@ -94,7 +94,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "668227dc-57ef-43cf-aed5-ec8cba9c7614")
+		(uuid "d9f858d7-eae9-4b63-866a-47bc6b7d87ef")
 	)
 	(fp_line
 		(start -7 9)
@@ -104,7 +104,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "15ef88f3-8a3a-4885-b5a0-4f4e097912fc")
+		(uuid "a59e3ec2-a763-4e19-ae62-a80fbed6e56d")
 	)
 	(fp_line
 		(start 7 6.5)
@@ -114,7 +114,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "d0bdce9e-f0e1-4537-ac60-4cc0508c6088")
+		(uuid "6f0e1f96-5abe-4165-acbc-1458cc4b5b85")
 	)
 	(fp_line
 		(start 10.5 -2)
@@ -124,7 +124,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "c5fb3f5d-4368-40fc-a059-d0e4388a71db")
+		(uuid "7eb92b25-53da-4177-a7eb-8f2669b8ca47")
 	)
 	(fp_line
 		(start 10.5 4)
@@ -134,7 +134,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "faedaa9d-a16f-4f2e-98f7-d7c8492cf5f1")
+		(uuid "17178a16-574d-4881-be70-dec831e5e0f0")
 	)
 	(fp_rect
 		(start -12 -4)
@@ -144,8 +144,8 @@
 			(type default)
 		)
 		(fill no)
-		(layer "B.SilkS")
-		(uuid "4e664b26-0bd4-453f-9348-b61c23e1af2e")
+		(layer "F.SilkS")
+		(uuid "0002b9cf-3748-42fc-94d2-6883223a4c13")
 	)
 	(fp_rect
 		(start -12 -4)
@@ -156,7 +156,7 @@
 		)
 		(fill no)
 		(layer "B.CrtYd")
-		(uuid "5fd01e50-3403-4873-a089-94604680fd5d")
+		(uuid "bb481044-de22-499b-a0eb-ab8a2dc6bf39")
 	)
 	(fp_rect
 		(start -11 -3)
@@ -167,13 +167,13 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "c0d6a0e5-a004-45d0-8cda-7611b47b327b")
+		(uuid "77b8c767-c47f-450c-abde-9530382d4871")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "5951c632-966a-4fd1-878c-9683d0cf4823")
+		(uuid "3e7a0529-edb2-485b-863d-cea121c782c0")
 		(effects
 			(font
 				(size 1 1)
@@ -182,13 +182,13 @@
 		)
 	)
 	(pad "1" thru_hole circle
-		(at -2.54 0)
+		(at 2.54 0)
 		(size 1.7 1.7)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(thermal_bridge_angle 90)
-		(uuid "9d53742c-ad0a-459b-8d9d-d55664b82517")
+		(uuid "8c6e0638-1f3a-43ba-8fe8-89f835b08176")
 	)
 	(pad "2" thru_hole circle
 		(at 0 0)
@@ -197,39 +197,27 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(thermal_bridge_angle 90)
-		(uuid "5645f22b-5204-49e2-b129-d48c5f8fa644")
+		(uuid "37635b90-cc8d-4280-b21e-c72d920b2848")
 	)
 	(pad "3" thru_hole circle
-		(at 2.54 0)
+		(at -2.54 0)
 		(size 1.7 1.7)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(thermal_bridge_angle 90)
-		(uuid "e9382a2f-b908-477c-ab17-365429111dcb")
+		(uuid "9ec87656-c1c1-4ad8-b8fe-401f17f1ceaf")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/3D models/WaterSensor.step"
-		(hide yes)
-		(offset
-			(xyz 0 -25.35 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz -90 -0 90)
-		)
-	)
 	(model "${KIPRJMOD}/3D models/Moisture Sensor.step"
 		(offset
-			(xyz 0 -45.8 -1.75)
+			(xyz 0 -45.8 0.25)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 -180 -0)
+			(xyz -90 -0 -0)
 		)
 	)
 )

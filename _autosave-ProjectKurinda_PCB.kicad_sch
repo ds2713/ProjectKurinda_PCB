@@ -2752,7 +2752,7 @@
 	)
 	(text "Sensor will operate without any surface-mount components\nif jumpers 1 and 2 are shorted with solder joints."
 		(exclude_from_sim no)
-		(at 219.456 141.478 0)
+		(at 242.062 161.544 0)
 		(effects
 			(font
 				(size 1.27 1.27)
