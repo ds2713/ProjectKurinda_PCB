@@ -137,9 +137,20 @@ This prototype was manufactured by Eurocircuits, who generously sponsored this p
 
 https://www.eurocircuits.com/
 
+# Updated sensor modules
+
+The new sensor modules listed above can be purchased on the following links.
+
+1. RTC -> RV3028: https://thepihut.com/products/rv3028-real-time-clock-rtc-breakout
+2. T&H -> SHT40: https://thepihut.com/products/adafruit-sensirion-sht40-temperature-humidity-sensor-stemma-qt-qwiic
+3. Accelerometer -> LIS2DW12: https://thepihut.com/products/fermion-lis2dw12-triple-axis-accelerometer-sensor-breakout-16g
+4. Micro SD card ->  DFR0229: https://thepihut.com/products/microsd-card-module-for-arduino
+
 ## Sources
 
 Several of the footprints and models of the development modules have been drawn from online resources. These are listed below.
+
+**Most of these modules have been superceded on the latest sensor design, but these resources have been left here for reference.**
 
 1. ESP32-C3 Supermini:
 - Schematic component, PCB footprint, 3D model: https://www.snapeda.com/parts/ESP32-C3%20SuperMini_TH/Espressif+Systems/view-part/?ref=snap
@@ -154,24 +165,6 @@ Several of the footprints and models of the development modules have been drawn 
 4. Accelerometer:
 - 3D model: https://grabcad.com/library/mpu6050-accelerometer-module-2
 
-Most of these modules have been superceded on the latest sensor design, but these resources have been left here for reference.
+# Next Steps
 
-# Updated sensor modules
-
-The new sensor modules listed above can be purchased on the following links.
-
-1. RTC -> RV3028: https://thepihut.com/products/rv3028-real-time-clock-rtc-breakout
-2. T&H -> SHT40: https://thepihut.com/products/adafruit-sensirion-sht40-temperature-humidity-sensor-stemma-qt-qwiic
-3. Accelerometer -> LIS2DW12: https://thepihut.com/products/fermion-lis2dw12-triple-axis-accelerometer-sensor-breakout-16g
-4. Micro SD card ->  DFR0229: https://thepihut.com/products/microsd-card-module-for-arduino
-
-
-# Next steps
-
-## New PCB
-
-i2c pull-ups
-Power rail switch
-Battery voltage monitoring
-Flip soil moisture sensor side
-Add LoRa module
+The next version of the PCB will include the LoRa radio module, and associated support circuitry.
